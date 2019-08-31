@@ -25,6 +25,8 @@ add, add, & add!
 
 [Robert Hodgin](http://roberthodgin.com/)
 
+[Tiffany Holmes](https://tholme.myportfolio.com/projects)
+
 [Aaron Koblin](http://www.aaronkoblin.com/)
 
 [Raven Kwok](http://ravenkwok.com)
@@ -41,6 +43,8 @@ add, add, & add!
 
 [Kyle McDonald](http://kylemcdonald.net/)
 
+[Lauren McCarthy](http://lauren-mccarthy.com)
+
 [Joshua Noble](http://thefactoryfactory.com/)
 
 [Julian Oliver](http://julianoliver.com/output/category/projects)
@@ -52,6 +56,8 @@ add, add, & add!
 [David Rokeby](http://www.davidrokeby.com/home.html)
 
 [Niklas Roy](http://www.niklasroy.com/workshop/148)
+
+[Silvia Ruzanka](http://silviaruzanka.com/art/)
 
 [Camille Utterback](http://camilleutterback.com/)
 
