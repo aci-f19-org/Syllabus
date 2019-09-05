@@ -17,9 +17,13 @@ add, add, & add!
 ## People
 [Memo Akten](http://www.memo.tv/)
 
+[Amy Alexander](http://amy-alexander.com)
+
 [Syed Reza Ali](http://www.syedrezaali.com)
 
 [Mr Doob](http://www.mrdoob.com/)
+
+[Dr. Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)
 
 [Ben Fry](http://benfry.com/)
 
@@ -41,6 +45,8 @@ add, add, & add!
 
 [Julien Maire](http://julienmaire.ideenshop.net)
 
+[Dr. Kat McDermott](https://kthartic.com)
+
 [Kyle McDonald](http://kylemcdonald.net/)
 
 [Lauren McCarthy](http://lauren-mccarthy.com)
@@ -59,7 +65,13 @@ add, add, & add!
 
 [Silvia Ruzanka](http://silviaruzanka.com/art/)
 
+[Kate Sicchio](http://blog.sicchio.com)
+
+[Joan Truckenbrod](http://www.joantruckenbrod.com)
+
 [Camille Utterback](http://camilleutterback.com/)
+
+[Victoria Vesna](https://victoriavesna.com)
 
 [Fernanda Viégas](http://fernandaviegas.com/)
 
@@ -73,3 +85,5 @@ add, add, & add!
 [processing](http://processing.org/)
 
 [three.js](http://threejs.org)
+
+[Touch Designer](https://www.derivative.ca)
