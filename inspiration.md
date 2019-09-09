@@ -21,9 +21,13 @@ add, add, & add!
 
 [Syed Reza Ali](http://www.syedrezaali.com)
 
+[Tega Brain](http://tegabrain.com)
+
 [Mr Doob](http://www.mrdoob.com/)
 
-[Dr. Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)
+[Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)
+
+[Mary Flanagan](https://maryflanagan.com)
 
 [Ben Fry](http://benfry.com/)
 
@@ -45,7 +49,7 @@ add, add, & add!
 
 [Julien Maire](http://julienmaire.ideenshop.net)
 
-[Dr. Kat McDermott](https://kthartic.com)
+[Kat McDermott](https://kthartic.com)
 
 [Kyle McDonald](http://kylemcdonald.net/)
 
