@@ -53,3 +53,9 @@ https://www.youtube.com/playlist?list=PL5wIANSfIdw_7vtJe9T5Y5WTiF2kAnZoW
 
 Eyeo 2012 Robert Hodgins
 https://vimeo.com/45526286
+
+# Sept 18
+Weapon of Choice
+https://www.youtube.com/watch?v=wCDIYvFmgW8
+
+
