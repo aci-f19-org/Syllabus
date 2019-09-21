@@ -34,6 +34,8 @@ Also check RPI Library's Safari On-line collection for these.
 
 #### OF
 - [OF Tutorials](http://www.openframeworks.cc/tutorials/)
+- [OF Video Tutorials](https://www.youtube.com/playlist?list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7)
+
 - [OF Addons](http://ofxaddons.com/)
 
 #### Git

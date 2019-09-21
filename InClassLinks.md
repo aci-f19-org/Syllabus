@@ -54,8 +54,13 @@ https://www.youtube.com/playlist?list=PL5wIANSfIdw_7vtJe9T5Y5WTiF2kAnZoW
 Eyeo 2012 Robert Hodgins
 https://vimeo.com/45526286
 
-# Sept 18
+# Sept 17
 Weapon of Choice
 https://www.youtube.com/watch?v=wCDIYvFmgW8
 
+# Sept 20
+Never Gonna Give You Up
+https://www.youtube.com/watch?v=NTmk0Pqk6hs
 
+Mad World
+https://www.youtube.com/watch?v=aVevvbFNKiY
