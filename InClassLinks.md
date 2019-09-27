@@ -64,3 +64,7 @@ https://www.youtube.com/watch?v=NTmk0Pqk6hs
 
 Mad World
 https://www.youtube.com/watch?v=aVevvbFNKiY
+
+# Sept 24
+Bill Hsu & John Butcher
+https://www.youtube.com/watch?v=7Pcu0KtBxH0
