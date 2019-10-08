@@ -68,3 +68,20 @@ https://www.youtube.com/watch?v=aVevvbFNKiY
 # Sept 24
 Bill Hsu & John Butcher
 https://www.youtube.com/watch?v=7Pcu0KtBxH0
+
+# Oct 8
+Hungarian Quick-sort folk dance
+https://www.youtube.com/watch?v=ywWBy6J5gz8
+
+15 sorting algorithms sonified
+https://www.youtube.com/watch?v=kPRA0W1kECg
+
+Free Fallin
+https://www.youtube.com/watch?v=1lWJXDG2i0A
+
+Love 2D
+http://www.love2d.org
+
+MoonLibs
+https://github.com/stetre/moonlibs
+
