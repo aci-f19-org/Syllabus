@@ -85,3 +85,16 @@ http://www.love2d.org
 MoonLibs
 https://github.com/stetre/moonlibs
 
+# Oct 11
+extra Haar's
+https://github.com/opencv/opencv/tree/master/data/haarcascades
+
+terminal star wars
+https://www.instructables.com/id/How-to-Watch-Star-Wars-in-Terminal/
+
+Tango
+https://www.youtube.com/watch?v=lo8O8lYDzIU
+
+Quayola - Forms
+https://vimeo.com/38429577
+
