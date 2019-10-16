@@ -98,3 +98,31 @@ https://www.youtube.com/watch?v=lo8O8lYDzIU
 Quayola - Forms
 https://vimeo.com/38429577
 
+# Oct 15
+RGB+D
+https://www.youtube.com/watch?v=mRR5Je79vpA
+https://www.depthkit.tv
+
+People Staring at Computers
+https://vimeo.com/groups/openframeworks/videos/25958231
+
+Sharing Faces
+https://vimeo.com/96549043
+
+Terrapattern
+http://www.flong.com/projects/terrapattern/
+
+Point Cloud Slitscanning
+https://vimeo.com/145868082
+
+Experimental Capture
+https://github.com/golanlevin/ExperimentalCapture
+
+Robot Cowboy
+http://www.robotcowboy.com
+
+Open Pose
+https://www.youtube.com/watch?v=pW6nZXeWlGM
+
+Design I/O
+https://www.design-io.com/about
