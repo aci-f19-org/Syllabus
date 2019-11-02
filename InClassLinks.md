@@ -126,3 +126,11 @@ https://www.youtube.com/watch?v=pW6nZXeWlGM
 
 Design I/O
 https://www.design-io.com/about
+
+# Nov 1
+New Times Bastard
+https://github.com/weiweihuanghuang/Times-New-Bastard
+
+esolangs
+https://esolangs.org/wiki/Main_Page
+
