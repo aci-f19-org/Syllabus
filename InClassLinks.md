@@ -134,3 +134,25 @@ https://github.com/weiweihuanghuang/Times-New-Bastard
 esolangs
 https://esolangs.org/wiki/Main_Page
 
+Jerry's Arduino code
+https://github.com/acijerry/aciArduinoTutorial
+
+# Nov 12
+Kate Sicchio live code dance
+https://www.youtube.com/watch?v=iOAffWTBVE0
+
+Thor Magnasson live code human on vibraphone
+https://www.youtube.com/watch?v=JV-Vhimg8-Y
+
+# Nov 19
+live-coding machine learning, turntables
+https://www.youtube.com/watch?v=WfJX62CqRpY&feature=youtu.be&t=7189
+
+live-coding latinoamerianos
+https://www.youtube.com/watch?v=zRGVBILAbTQ
+
+live-coding Shelly Knotts CYOF
+https://www.youtube.com/watch?v=5GXzDnjgyso
+
+live-coding Avneesh Sarwate Hyperphase
+https://www.youtube.com/watch?v=farVt4xQtbs
