@@ -156,3 +156,13 @@ https://www.youtube.com/watch?v=5GXzDnjgyso
 
 live-coding Avneesh Sarwate Hyperphase
 https://www.youtube.com/watch?v=farVt4xQtbs
+
+# Nov 26
+AMEN $ Mother Function
+https://www.youtube.com/watch?v=SgE9POc5BdA
+
+Scorpion Mouse
+https://www.youtube.com/watch?v=5RX3-6U5gCo
+
+Rodrigo Velasco
+https://www.youtube.com/watch?v=1jvaxDnKJik
